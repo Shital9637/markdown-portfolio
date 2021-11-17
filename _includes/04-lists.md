@@ -1,6 +1,6 @@
-*My favorite emojis 
-*:heart:
-*👍	
-*😄
-*✨	
-*🎉	
+* My favorite emojis 
+* :heart:
+* 👍	
+* 😄
+* ✨	
+* 🎉	
